@@ -1,4 +1,4 @@
-![Header](https://github.com/uav-profile/uav-profile/blob/main/logo_git.png)
+![Header](https://github-readme-stats.vercel.app/api?username=uav-profile&theme=blue-green)
 
 ## Languages and tools:
 ![C++](https://img.shields.io/badge/C%2B%2B-090909?style=for-the-badge&logo=c%2B%2B&logoColor=4C59D8)
@@ -8,6 +8,8 @@
 ![DJANGO](https://img.shields.io/badge/Django-090909?style=for-the-badge&logo=django&logoColor=00B358)
 ![Flutter](https://img.shields.io/badge/Flutter-090909?style=for-the-badge&logo=flutter&logoColor=47C5FB)
 ![HEROKU](https://img.shields.io/badge/Heroku-090909?style=for-the-badge&logo=heroku&logoColor=BC008D)
+![GNURADIO](https://img.shields.io/badge/Gnuradio-090909?style=for-the-badge)
+
 <!--
 **uav-profile/uav-profile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -22,4 +24,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
