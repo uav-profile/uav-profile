@@ -9,7 +9,6 @@
 ![BOOT](https://img.shields.io/badge/Bootstrap-090909?style=for-the-badge&logo=bootstrap&logoColor=54026E)
 ![Flutter](https://img.shields.io/badge/Flutter-090909?style=for-the-badge&logo=flutter&logoColor=47C5FB)
 ![HEROKU](https://img.shields.io/badge/Heroku-090909?style=for-the-badge&logo=heroku&logoColor=BC008D)
-![GNURADIO](https://img.shields.io/badge/Gnuradio-090909?style=for-the-badge)
 
 <!--
 **uav-profile/uav-profile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
