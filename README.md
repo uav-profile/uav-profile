@@ -1,4 +1,4 @@
-![Header](https://github.com/uav-profile/uav-profile/blob/main/logo_git.png)
+<p align="center">![Header](https://github.com/uav-profile/uav-profile/blob/main/logo_git.png)
 
 ## Languages and tools:
 ![C++](https://img.shields.io/badge/C%2B%2B-090909?style=for-the-badge&logo=c%2B%2B&logoColor=4C59D8)
