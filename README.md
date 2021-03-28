@@ -4,7 +4,6 @@
 ![C++](https://img.shields.io/badge/C%2B%2B-090909?style=for-the-badge&logo=c%2B%2B&logoColor=4C59D8)
 ![PYTHON](https://img.shields.io/badge/Python-090909?style=for-the-badge&logo=python&logoColor=yellow)
 ![DART](https://img.shields.io/badge/Dart-090909?style=for-the-badge&logo=dart&logoColor=097CDB)
-<!--![C#](https://img.shields.io/badge/C%23-090909?style=for-the-badge&logo=c-sharp&logoColor=CB0077)-->
 ![DJANGO](https://img.shields.io/badge/Django-090909?style=for-the-badge&logo=django&logoColor=00B358)
 ![BOOT](https://img.shields.io/badge/Bootstrap-090909?style=for-the-badge&logo=bootstrap&logoColor=54026E)
 ![Flutter](https://img.shields.io/badge/Flutter-090909?style=for-the-badge&logo=flutter&logoColor=47C5FB)
@@ -23,4 +22,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- https://img.shields.io/badge/C%23-090909?style=for-the-badge&logo=c-sharp&logoColor=CB0077
 -->
