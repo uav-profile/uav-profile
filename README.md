@@ -11,7 +11,6 @@
 [![QT](https://img.shields.io/badge/QT-090909?style=for-the-badge&logo=qt&logoColor=39E444)](https://www.qt.io/)
 [![ju](https://img.shields.io/badge/jupyter-090909?style=for-the-badge&logo=jupyter&logoColor=FF5600)](https://jupyter.org/)
 [![DJANGO](https://img.shields.io/badge/Django-090909?style=for-the-badge&logo=django&logoColor=00B358)](https://www.djangoproject.com/)
-[![BOOT](https://img.shields.io/badge/Bootstrap-090909?style=for-the-badge&logo=bootstrap&logoColor=54026E)](https://getbootstrap.com/)
 [![Flutter](https://img.shields.io/badge/Flutter-090909?style=for-the-badge&logo=flutter&logoColor=47C5FB)](https://flutter.dev/)
 [![HEROKU](https://img.shields.io/badge/Heroku-090909?style=for-the-badge&logo=heroku&logoColor=BC008D)](https://www.heroku.com/)
 
