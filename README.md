@@ -5,10 +5,9 @@
 ![Header](https://github-readme-stats.vercel.app/api?username=uav-profile&theme=blue-green)
 
 ## Languages and tools:
-[![C++](https://img.shields.io/badge/C%2B%2B-090909?style=for-the-badge&logo=c%2B%2B&logoColor=4C59D8)](https://www.qt.io/)
+[![C++](https://img.shields.io/badge/C%2B%2B-090909?style=for-the-badge&logo=c%2B%2B&logoColor=4C59D8)]()
 [![PYTHON](https://img.shields.io/badge/Python-090909?style=for-the-badge&logo=python&logoColor=yellow)](https://www.python.org/)
 [![DART](https://img.shields.io/badge/Dart-090909?style=for-the-badge&logo=dart&logoColor=097CDB)](https://dart.dev/)
-[![C#](https://img.shields.io/badge/C%23-090909?style=for-the-badge&logo=c-sharp&logoColor=CB0077)](https://docs.microsoft.com/ru-ru/dotnet/csharp/)
 [![DJANGO](https://img.shields.io/badge/Django-090909?style=for-the-badge&logo=django&logoColor=00B358)](https://www.djangoproject.com/)
 [![BOOT](https://img.shields.io/badge/Bootstrap-090909?style=for-the-badge&logo=bootstrap&logoColor=54026E)](https://getbootstrap.com/)
 [![Flutter](https://img.shields.io/badge/Flutter-090909?style=for-the-badge&logo=flutter&logoColor=47C5FB)](https://flutter.dev/)
@@ -27,4 +26,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- [![C#](https://img.shields.io/badge/C%23-090909?style=for-the-badge&logo=c-sharp&logoColor=CB0077)](https://docs.microsoft.com/ru-ru/dotnet/csharp/)
 -->
