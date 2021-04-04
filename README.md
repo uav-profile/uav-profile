@@ -1,9 +1,9 @@
+## Statistic:
+[![](https://badgen.net/github/watchers/uav-profile/uav-profile)](https://badgen.net/)
+[![](https://komarev.com/ghpvc/?username=uav-profile&label=Profile+views&style=flat&color=blue)](https://github.com/antonkomarev/github-profile-views-counter)
+[![](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](http://www.sova-app.eu)
 
 ![Header](https://github-readme-stats.vercel.app/api?username=uav-profile&theme=blue-green)
-
-## Information:
-[![](https://komarev.com/ghpvc/?username=uav-profile&label=Profile+views&style=flat&color=brightgreen)](https://github.com/antonkomarev/github-profile-views-counter)
-[![](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](http://www.sova-app.eu)
 
 ## Languages and tools:
 [![C++](https://img.shields.io/badge/C%2B%2B-090909?style=for-the-badge&logo=c%2B%2B&logoColor=4C59D8)](https://www.qt.io/)
