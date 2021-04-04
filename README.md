@@ -1,6 +1,6 @@
 ## Statistic:
 [![](https://badgen.net/github/watchers/uav-profile/uav-profile)](https://badgen.net/)
-[![](https://komarev.com/ghpvc/?username=uav-profile&label=Profile+views&style=flat&color=blue)](https://github.com/antonkomarev/github-profile-views-counter)
+[![](https://komarev.com/ghpvc/?username=uav-profile&label=profile+views&style=flat&color=blue)](https://github.com/antonkomarev/github-profile-views-counter)
 [![](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](http://www.sova-app.eu)
 
 ![Header](https://github-readme-stats.vercel.app/api?username=uav-profile&theme=blue-green)
