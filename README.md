@@ -1,7 +1,7 @@
 ![Header](https://github-readme-stats.vercel.app/api?username=uav-profile&theme=blue-green)
 
 ## Languages and tools:
-![C++](https://img.shields.io/badge/C%2B%2B-090909?style=for-the-badge&logo=c%2B%2B&logoColor=4C59D8)
+[![C++](https://img.shields.io/badge/C%2B%2B-090909?style=for-the-badge&logo=c%2B%2B&logoColor=4C59D8)](https://habr.com/ru/hub/cpp/)
 ![PYTHON](https://img.shields.io/badge/Python-090909?style=for-the-badge&logo=python&logoColor=yellow)
 ![DART](https://img.shields.io/badge/Dart-090909?style=for-the-badge&logo=dart&logoColor=097CDB)
 ![DJANGO](https://img.shields.io/badge/Django-090909?style=for-the-badge&logo=django&logoColor=00B358)
