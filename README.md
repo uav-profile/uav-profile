@@ -1,4 +1,3 @@
-### BTC: 1HMqFPCEeA2xZBCoUhVjEk5VXmJ2XF35Ne
 
 ## Statistic:
 [![](https://komarev.com/ghpvc/?username=uav-profile&label=profile+views&style=flat&color=blue)](https://github.com/antonkomarev/github-profile-views-counter)
