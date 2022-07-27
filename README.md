@@ -3,7 +3,7 @@
 [![](https://komarev.com/ghpvc/?username=uav-profile&label=profile+views&style=flat&color=blue)](https://github.com/antonkomarev/github-profile-views-counter)
 
 <!--![Header](https://github-readme-stats.vercel.app/api?username=uav-profile&theme=blue-green)-->
-
+<!--
 ## Languages and tools:
 [![C++](https://img.shields.io/badge/C%2B%2B-090909?style=for-the-badge&logo=c%2B%2B&logoColor=4C59D8)](http://cppreference.com/)
 [![PYTHON](https://img.shields.io/badge/Python-090909?style=for-the-badge&logo=python&logoColor=yellow)](https://www.python.org/)
@@ -13,6 +13,7 @@
 [![DJANGO](https://img.shields.io/badge/Django-090909?style=for-the-badge&logo=django&logoColor=00B358)](https://www.djangoproject.com/)
 [![Flutter](https://img.shields.io/badge/Flutter-090909?style=for-the-badge&logo=flutter&logoColor=47C5FB)](https://flutter.dev/)
 [![HEROKU](https://img.shields.io/badge/Heroku-090909?style=for-the-badge&logo=heroku&logoColor=BC008D)](https://www.heroku.com/)
+-->
 
 <!--
 **uav-profile/uav-profile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
